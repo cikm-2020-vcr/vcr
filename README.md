@@ -1,5 +1,5 @@
 # Video Channel Subscription Dataset
-This page introcues a newly constructed video channel subscription dataset.
+This page introcues a newly constructed video channel subscription dataset. The dataset is avaiable at [here](#).
 
 ### Description
 We collected the data from YouTube which is one of the most popular video media platforms. We collected the channel subscription information of users. The data is collected as follows:
