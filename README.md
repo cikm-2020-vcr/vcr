@@ -28,4 +28,15 @@ In total, we collect 7,135,931 subscription information from 190,884 users and 1
 <tr><td>sparsity</td><td>14.93</td></tr>
 </table>
 
+<center>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center>
+
+
 ### Data Format
