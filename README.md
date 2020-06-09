@@ -29,3 +29,8 @@ In total, we collect 7,135,931 subscription information from 190,884 users and 1
 </table>
 
 ### Data Format
+The data set includes "train.tsv", five "validation_{}.tsv", five "test_{}.txv", "user2id.tsv", "channel2id.tsv", and "video_info.tsv". Each data is represented in the following format:
+#### "train.tsv"
+```bash
+<post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
+```
