@@ -18,10 +18,14 @@ In total, we collect 7,135,931 subscription information from 190,884 users and 1
 
 ### Statistics
 <table style="align=center;">
-<tr><td>number of total post</td><td>number of POIs</td><td>number of users</td><td>size of vocabulary</td></tr>
-<tr><td>736,445</td><td>9,745</td><td>14,830</td><td>470,374</td></tr>
-<tr><td>size of training set</td><td>size of validation set</td><td>size of test set</td></tr>
-<tr><td>526,783</td><td>67,834</td><td>141,828</td></tr>
+<tr><td>number of Subscriptions</td><td>2,148,316</td></tr>
+<tr><td>number of Users</td><td>106,826</td></tr>
+<tr><td>number of Channels</td><td>20,188</td></tr>
+<tr><td>number of Videos</td><td>301,309</td></tr>
+<tr><td>number of Categories</td><td>15</td></tr>
+<tr><td>average number of Subscriptions per User</td><td>20.11</td></tr>
+<tr><td>average number of Videos per Channel</td><td>14.93</td></tr>
+<tr><td>sparsity</td><td>14.93</td></tr>
 </table>
 
 ### Data Format
