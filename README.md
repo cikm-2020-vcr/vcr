@@ -17,6 +17,7 @@ If there are channels not been retrieved left in the channel set, we repeat step
 In total, we collect 7,135,931 subscription information from 190,884 users and 1,286,014 channels located in United States. Last, we remove channels that have less than 20 subscribers and users with less than 10 subscriptions. After preprocessing, our new dataset includes **4,129,053 subscriptions** of **77,155 users** and **25,050 channels**. Information of **616,034 videos** including titles, categories, and upload dates are also included in the dataset.
 
 ### Statistics
+<p align="center"></p>
 <table style="align=center;">
 <tr><td>number of Subscriptions</td><td>2,148,316</td></tr>
 <tr><td>number of Users</td><td>106,826</td></tr>
@@ -27,5 +28,6 @@ In total, we collect 7,135,931 subscription information from 190,884 users and 1
 <tr><td>average number of Videos per Channel</td><td>14.93</td></tr>
 <tr><td>sparsity</td><td>14.93</td></tr>
 </table>
+<p></p>
 
 ### Data Format
