@@ -34,3 +34,23 @@ The data set includes "train.tsv", five "validation_{}.tsv", five "test_{}.txv",
 ```bash
 <post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
 ```
+#### "validation_{}.tsv"
+```bash
+<post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
+```
+#### "test_{}.tsv"
+```bash
+<post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
+```
+#### "user2id.tsv"
+```bash
+<post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
+```
+#### "channel2id.tsv"
+```bash
+<post_id>\t<user_id>\t<word_1 word_2 ... >\t<poi_id>\t<month>\t<weekday>\t<hour>
+```
+#### "video_info.tsv"
+```bash
+<channel_id>\t<video_id>\t<word_1 word_2 ... >\t<category_id>
+```
